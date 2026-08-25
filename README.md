@@ -1,4 +1,6 @@
-I'm a mathematician and programmer. Most of my projects are in Rust and Python.
-Additionally I'm a firm believer in handcrafting code, and will not use LLMs in any of my projects.
+I am an undergrad majoring in Mathematics and Computer Science. My focus is mainly on "pure" math and theoretical CS, though I try to dabble in a vast area of subjects.
 
-I might not be the most active right now as I'm a current student. Apologies if I take a while to get back to you on anything.
+My languages of choice (as of writing) are Rust, Lean, and Python.
+
+I'm firmly against the widespread use of LLMs and Generative AI in the modern day, especially in the areas of Mathematics and Programming. 
+I will not permit any use of Generative AI or LLMs in any of my repositories, this is a blanket one-strike policy.
