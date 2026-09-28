@@ -4,5 +4,7 @@ hearty dash of Lua and Tex.
 
 I use NixOS, btw.
 
+Profile picture made in Desmos graphing calculator.
+
 I have a blanket ban of any and all use of Generative AI or LLMs on all of my
 repositories, projects, gists, etc.
